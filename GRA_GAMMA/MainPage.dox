@@ -1,0 +1,18 @@
+/**
+@mainpage Dokumentacja zadania gamma
+
+### Treść zadania
+
+Uwaga: aktualna treść zadania znajduje się w [Moodle'u](https://moodle.mimuw.edu.pl).
+
+### Opis programu
+Program składa się z części będących kolejnymi etapami zadania:
+*
+* 1) Silnik do gry gamma
+*
+* 2) Interfej tekstowy podzielony na tryby (wsadowy/interaktywny)
+*
+
+Zasady gry gamma (skrótowo):
+Gracze zajmują pola na planszy, mogą wybrać dowolne pole jednak nie mogą przekroczyć ustalonej liczby obszarów. Obszar składa się z graniczących ze sobą pól jednego gracza. Wygrywa gracz mający najwięcej pól pod koniec rozgrywki.
+*/
